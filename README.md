@@ -1,1 +1,1 @@
-# Repo for the global health hackathon - team 6 
+#  Global Health Hackathon - Team 6 
